@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(/h.avif);
+  background-image: url(h.avif);
   background-repeat: no-repeat;
   background-size: 100% 400vh;
   /* opacity: 0.75; */
